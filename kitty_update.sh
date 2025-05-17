@@ -1,4 +1,5 @@
 #!/bin/bash
+
 set -e
 
 KITTY_DIR="$HOME/.local/kitty.app"
